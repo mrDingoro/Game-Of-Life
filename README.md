@@ -1,5 +1,6 @@
 # Game-Of-Life
-Игра «Жизнь» (англ. Conway's Game of Life) — клеточный автомат, придуманный английским математиком Джоном Конвеем в 1970 году.
+Some experience =) 
 
-![image](https://user-images.githubusercontent.com/35834288/169290233-aa718cdb-4db7-4935-949c-57f7cc4dabd1.png)
+![image](https://user-images.githubusercontent.com/35834288/169290985-ad397f32-af39-4441-a8cc-e65b845ff53e.png)
+![image](https://user-images.githubusercontent.com/35834288/169291045-3c40c8a0-a35e-41c0-98dd-4fb1dfed617d.png)
 
